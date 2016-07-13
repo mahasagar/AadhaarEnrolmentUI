@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AadhaarEnrolmentUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_uidai_noobjections">I have no objection to the UIDAI sharing information provided by me to the UIDAI with agencies engaged in delivery of public services including welfare services</string>
+    <string name="str_bankDetails">Select one of the below (OPTIONAL) ( This data cannot be Corrected after Enrolment)</string>
+    <string name="str_bankOne">I want the UIDAI to facilitate opening of a new Bank/Post Office Account linked to my Aadhaar Number information for this purpose.</string>
+    <string name="str_bankTwo">I have no objection to linking my present bank account provided here to my Aadhaar number.</string>
+    <string name="str_id_details">ID Details</string>
+    <string name="str_personal_details">Personal Details</string>
+    <string name="str_familydetails">Family Details</string>
+    <string name="str_uidaidetails">UIDAI Details</string>
+    <string name="str_verificationtype">Verification Type</string>
+
+
+    <string-array name="spin_title">
+        <item>S/o</item>
+        <item>D/o</item>
+        <item>W/o</item>
+        <item>H/o</item>
+        <item>C/o</item>
+    </string-array>
+
+    <string-array name="spin_verify_family_base">
+        <item>Select</item>
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Guardian</item>
+        <item>Husband</item>
+        <item>Wife</item>
+    </string-array>
+
+    <string-array name="state_array">
+        <item>Select State</item>
+        <item>Maharashatra</item>
+        <item>Karnataka</item>
+    </string-array>
+
+    <string-array name="city_mh">
+        <item>Select City</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Nashik</item>
+    </string-array>
+
+    <string-array name="city_karnataka">
+        <item>Select City</item>
+        <item>Bangalore</item>
+        <item>Mangalore</item>
+        <item>Mysore</item>
+    </string-array>
+
+</resources>
